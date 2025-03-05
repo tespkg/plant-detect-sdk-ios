@@ -1,0 +1,6 @@
+framework module PlantDetectSDK {
+  umbrella header "PlantDetectSDK.h"
+  export *
+
+  module * { export * }
+}

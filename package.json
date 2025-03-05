@@ -1,0 +1,12 @@
+{
+  "name": "plant-detect-sdk",
+  "version": "1.0.0",
+  "description": "Description",
+  "author": "Huan Chen",
+  "homepage": "https://github.com/tespkg/plant-detect-sdk-ios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tespkg/plant-detect-sdk-ios.git"
+  }
+}
