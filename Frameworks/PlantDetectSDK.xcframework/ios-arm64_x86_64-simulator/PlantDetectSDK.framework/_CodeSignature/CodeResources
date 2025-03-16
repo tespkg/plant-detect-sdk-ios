@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/PlantDetectSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7Dm7QzcnPcdYn3u0Ewdu92ePXWo=
+		j+FUlKfL6XUdZieBGBaLhfc+54s=
 		</data>
 		<key>Modules/PlantDetectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/PlantDetectSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lxnsW63W7mh2Qe24A1p0OD5AsSc=
+		D8Yjl9BsxH61OdjPP+SD/QpSUOg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -963,7 +963,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CKQc+YTDB61h5e5Wx1NIC31csBeTQppZWWtQoXRxilc=
+			+WuVG1aFcAxUGoTlispQ61lxRlnMiY3SeyEUIXoaNvY=
 			</data>
 		</dict>
 		<key>Modules/PlantDetectSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -998,7 +998,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SHHe1mae1E32e5K1oW2/NNw+S7CMkgsv6WIv/eDt6sc=
+			1O+8poqrNgoKHK/uqs9itU1TD8HklYreIYraqeb92Oc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
