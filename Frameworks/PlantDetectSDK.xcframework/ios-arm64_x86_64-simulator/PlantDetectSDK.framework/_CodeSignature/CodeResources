@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vtKHe67kyvZAckdBFbLbBz1yem4=
+		YczL2DILWAtiAVDFaFyY/KyLkT4=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -124,9 +124,13 @@
 		<data>
 		VqzvwHMfNe4jsZWxyMtfqUoNuXs=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		YZKTRHNrTxX3QTFjTE1CsuxomoY=
+		</data>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<data>
-		sIjXoaCYw3dOG27iDTFf2sv3M9s=
+		EEtGUn1J+IGav1BgpTBee+owzdI=
 		</data>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -787,7 +791,7 @@
 		</dict>
 		<key>RNCAsyncStorage_resources.bundle/Info.plist</key>
 		<data>
-		Q1aCXVzsmvWw6C6u6VRWTWzzUDo=
+		NhJkzlRWmF9imDirdfl49Z3BABc=
 		</data>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -795,7 +799,7 @@
 		</data>
 		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
 		<data>
-		O0ynsZhR2Bb6cVGCfG7m0Sqtuuc=
+		gUDusF+Nn4ZCxxt3udB6pOa0fxI=
 		</data>
 		<key>RNImagePickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1015,11 +1019,18 @@
 			Fts0gFPqESWZ4qY1b2wfoHNdAOLKJHKs+t/82pDiInw=
 			</data>
 		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RQ9GCBpKizzxqBtjiCUGH1T128YFNk4RyrvS5iRv02U=
+			</data>
+		</dict>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9o1H8dqrtA/mVDCh5xetUghryGfrZhco9JXxS2zEy2Y=
+			olwJPrumoZninKGZyw4B4MwfkSZrcFCjFEv2TEhVmo8=
 			</data>
 		</dict>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
@@ -1683,7 +1694,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SfSBTC/htGgfVLEwnnq8lL2B0UppdhDrPhfJnAHKwk4=
+			TEc/N406KdQnD5LafKWh0BzR7AoV2wIZtKYhaMGes6I=
 			</data>
 		</dict>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1697,7 +1708,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xr4wf9n3bvwZABoHG9lFUwXD4EoglRmcvGcaU63g2L8=
+			kUm+AGOPU6IN1Fiq5mXdEgn7RBNgdwSJQosT8d+XF44=
 			</data>
 		</dict>
 		<key>RNImagePickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
